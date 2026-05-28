@@ -27,6 +27,8 @@ Amudar.io builds AI-powered IoT for smart agriculture — agrometeorological sta
 **Offer**
 Negotiable salary · On-site in Tashkent, 5 days/week, flexible hours · Real work experience integrating hardware projects and building a scalable IoT ecosystem.
 
+**Test task:** https://github.com/s-abdullaev/amudario-backend-test-task
+
 **Apply:** info@amudar.io / [@s_abdullaev_uk](https://t.me/s_abdullaev_uk)
 
 ---
@@ -52,6 +54,8 @@ Amudar.io создаёт AI-IoT решения для умного сельск�
 **Условия**
 Зарплата обсуждается индивидуально · Офис в Ташкенте, 5 дней в неделю, гибкий график · Реальный опыт интеграции hardware-проектов и построения масштабируемой IoT-экосистемы.
 
+**Тестовое задание:** https://github.com/s-abdullaev/amudario-backend-test-task
+
 **Отклик:** info@amudar.io / [@s_abdullaev_uk](https://t.me/s_abdullaev_uk)
 
 ---
@@ -76,5 +80,7 @@ Amudar.io — aqlli qishloq xoʻjaligi uchun AI va IoT yechimlarini ishlab chiqa
 
 **Shartlar**
 Maosh kelishiladi · Toshkent ofisida, haftada 5 kun, moslashuvchan jadval · Hardware loyihalarini integratsiya qilish va masshtablanadigan IoT ekotizimini qurish boʻyicha real ish tajribasi.
+
+**Test topshiriq:** https://github.com/s-abdullaev/amudario-backend-test-task
 
 **Murojaat:** info@amudar.io / [@s_abdullaev_uk](https://t.me/s_abdullaev_uk)
